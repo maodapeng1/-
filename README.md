@@ -1,13 +1,5 @@
 # AI Couplets - AI 对联/春联
-
-Powered by [DeepSeek 开发平台](https://platform.deepseek.com/).
-
-- 字体：[MaShanZheng | Google Fonts](https://fonts.google.com/specimen/Ma+Shan+Zheng)
-
-## Desc
-
-- 横批从右往左，上联在右，下联在左。
-- 横批从左往右，上联在左，下联在右。
+体验地址：[点击在线体验](https://ai-sfc.yunyoujun.cn/)
 
 ## Dev
 
@@ -25,8 +17,6 @@ OPENAI_API_KEY=your_deepseek_api_key
 pnpm i
 pnpm dev
 ```
+## 友情链接
 
-## FAQ
-
-- [Error when opening nuxt3 web link in China's QQ application](https://github.com/nuxt/nuxt/issues/24229)
-- `ofetch` in QQ browser: [unjs/ofetch#294](https://github.com/unjs/ofetch/issues/294)
+- [wechatAPI on GitHub](https://github.com/kawika-git/wechatAPI)
